@@ -21,8 +21,8 @@ Trained on **Kaggle** — 2× GPU Tesla P100 16 GB — 100 epochs — imgsz 1280
 ### Images
 
 <p align="center">
-  <img src="assets/inference_img1.jpg" width="45%"/>
-  <img src="assets/inference_img2.jpg" width="45%"/>
+  <img src="assets/inference_img1.png" width="45%"/>
+  <img src="assets/inference_img2.png" width="45%"/>
 </p>
 
 ### Videos
