@@ -1,0 +1,33 @@
+# Model weights (too large for GitHub)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+
+# YOLO run outputs
+runs/
+weights/
+
+# Dataset (download via kagglehub)
+data/
+datasets/
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Colab / Kaggle artifacts
+/content/
+/kaggle/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images & videos (inference results)
+inference_results*.png
+*.avi
+*.mp4
