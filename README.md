@@ -16,6 +16,22 @@ Trained on **Kaggle** — 2× GPU Tesla P100 16 GB — 100 epochs — imgsz 1280
 
 ---
 
+## Demo
+
+### Images
+
+<p align="center">
+  <img src="assets/inference_img1.jpg" width="45%"/>
+  <img src="assets/inference_img2.jpg" width="45%"/>
+</p>
+
+### Videos
+
+<p align="center">
+  <img src="assets/inference_1.gif" width="45%"/>
+  <img src="assets/inference_2.gif" width="45%"/>
+</p>
+
 ## Dataset — D-Fire
 
 | Property | Detail |
