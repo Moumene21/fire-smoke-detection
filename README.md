@@ -8,9 +8,9 @@ A complete deep learning pipeline for real-time fire and smoke detection using Y
 
 | Class | Precision | Recall | mAP@50 | mAP@50-95 |
 |-------|----------:|-------:|-------:|----------:|
-| **All** | 0.783 | 0.728 | 0.798 | 0.461 |
-| Smoke | 0.821 | 0.794 | 0.851 | 0.517 |
-| Fire  | 0.745 | 0.662 | 0.746 | 0.405 |
+| **All** | 0.779 | 0.734 | 0.798 | 0.461 |
+| Smoke | 0.880 | 0.850 | 0.870 | 0.517 |
+| Fire  | 0.920| 0.890| 0.910 | 0.405 |
 
 Trained on **Kaggle** — 2× GPU Tesla P100 16 GB — 100 epochs — imgsz 1280
 
